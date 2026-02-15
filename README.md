@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.1.1-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/版本-1.1.2-blue" alt="Version"/>
   <img src="https://img.shields.io/badge/平台-Android-green" alt="Platform"/>
   <img src="https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter" alt="Flutter"/>
 </p>
@@ -66,7 +66,7 @@
 
 ### 安装步骤
 
-1. 从 [Releases](../../releases) 页面下载最新版 APK 文件：`Komic_V1.1.1.apk`
+1. 从 [Releases](../../releases) 页面下载最新版 APK 文件
 2. 在手机上打开下载的 APK 文件
 3. 如果提示「不允许安装未知来源应用」，请前往 **设置 → 安全 → 未知来源** 允许安装
 4. 安装完成后打开应用即可使用
@@ -105,19 +105,6 @@
 | EPUB 电子书 | `.epub` | 全部 |
 | PDF 文档 | `.pdf` | 全部 |
 | 图片文件夹 | 文件夹内含图片 | 本地 |
-
----
-
-## 📝 版本 1.1.1 更新内容
-
-- 🆕 **双页拆分 (Beta)** — 横向跨页智能拆分
-- 🆕 **裁白边功能 (Beta)** — 自动裁剪页面白边
-- 🆕 **纸张纹理** — 自定义阅读背景纹理
-- 🆕 **离线库搜索** — 支持在离线书库中搜索
-- 🆕 **缓存分组管理** — 缓存页面支持按来源分组、拖拽排序
-- ⚡ **AI 增强优化** — 增强完成后水波纹动画揭示效果
-- ⚡ **阅读器优化** — 改进阅读进度恢复与稳定性
-- 🔧 **设备激活优化** — 优化设备 ID 生成与绑定逻辑
 
 ---
 
