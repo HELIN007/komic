@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/版本-1.2.9-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/版本-1.3.1-blue" alt="Version"/>
   <img src="https://img.shields.io/badge/平台-Android-green" alt="Platform"/>
   <img src="https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter" alt="Flutter"/>
 </p>
@@ -95,8 +95,8 @@ Komic 当前实现主要围绕以下内容类型展开：
 ## 📱 安装指南
 
 ### 系统要求
-- **Android 5.0+**（API 21+）
-- 建议 Android 8.0 及以上以获得最佳体验
+- **Android 14.0+**（API 36+）
+- 建议 Android 14.0 及以上以获得最佳体验
 
 ### 安装步骤
 
